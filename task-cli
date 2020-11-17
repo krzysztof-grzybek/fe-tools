@@ -1,0 +1,6 @@
+Korzystajać z terminala wykonaj następujące kroki:
+
+1. W dowolnym miejscu na dysku utwórz folder o nazwie "cli".
+2. W nowo uwotrzonym folderze "cli" utwórz plik "is-easy".
+3. Usuń plik "is-easy".
+4. Usun folder "cli".
